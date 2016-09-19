@@ -1,3 +1,3 @@
 # js-week4-project1
 
-This project will give you an opprotunity to start practicing with jQuery. 
+This project will give you an opportunity to start practicing with jQuery. 
